@@ -1,20 +1,16 @@
+# Personal Portfolio
 
-## 🌱 Purpose
-This project was created to:
-- Practice basic web development skills
-- Learn Git & GitHub workflow
-- Build an early personal portfolio as a student
+This repository contains a simple personal portfolio website built using **HTML** and **CSS**.
 
-## 🚀 Future Plans
-- Improve website design and responsiveness
-- Add JavaScript for interactivity
-- Expand projects related to Artificial Intelligence
+## 👨‍🎓 About Me
+I am an Informatics Engineering student at **Institut Teknologi Sumatera**,  
+South Lampung, Lampung, Indonesia.
 
-## 📬 Contact
-- Instagram: [@_rhnkurniawan](https://www.instagram.com/_rhnkurniawan/)
-- GitHub: [hanxx166](https://github.com/hanxx166)
+Currently, I am learning the fundamentals of programming and software development, with a growing interest in **Artificial Intelligence**.
 
----
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- Git & GitHub
 
-⭐ Feel free to explore this repository and follow my learning journey!
-
+## 📂 Project Structure
